@@ -1,6 +1,6 @@
-# FabricAdminWorkshop
+# Workshop: Mastering Fabric Administration
 
-Files for the Mastering Fabric Administration workshop at FabCon on Sunday, Marts 30th
+Here you'll find files for the Mastering Fabric Administration workshop at FabCon on Saturday, Marts 30th
 
 A comprehensive workshop designed for Fabric administrators and those who want to understand the administrative capabilities within Microsoft Fabric. Whether you are stepping into the role of a Fabric administrator, aspire to do so, or simply want to collaborate more effectively with administrators, this session offers a deep dive into the tools, settings, and best practices that empower you to manage and secure your Fabric environment confidently.
 
@@ -12,12 +12,12 @@ Whether you are a current Fabric administrator, aspire to become one, or simply 
 - Tenant Administration
 - Capacity Administration
 - Workspace Administration
-- Gateway Administration
+- Connections and Gateway Administration
 - Quiz
 
 ## Speakers: The three Vikings from the North
 
-- Ásgeir Gunnarsson​, MVP, Data Person @ Data Lab
+- Ásgeir Gunnarsson​, MVP, Partner @ Data Lab
 - Lars Andersen​, Program Manager @ Fabric CAT
 - Just Blindbæk​, MVP, Principal Architect @ twoday
 
