@@ -6,7 +6,7 @@ A comprehensive workshop designed for Fabric administrators and those who want t
 
 Whether you are a current Fabric administrator, aspire to become one, or simply want to better understand the possibilities and complexities of administering a Fabric tenant, this workshop will equip you with the tools and knowledge to excel in the role.
 
-We recommend to use the [dGitHub ownload feature](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) and save all the content locally.
+We recommend to use the [GitHub download feature](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) and save all the content locally.
 
 ## Agenda
 
@@ -15,7 +15,7 @@ We recommend to use the [dGitHub ownload feature](https://docs.github.com/en/rep
 - Capacity Administration
 - Workspace Administration
 - Connections and Gateway Administration
-- Quiz
+- Kahoot Quiz
 
 ## Speakers: The three Vikings from the North
 
