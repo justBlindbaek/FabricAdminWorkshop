@@ -35,3 +35,7 @@ Whether you are a current Fabric administrator, aspire to become one, or simply 
 - The full [Mastering Fabric Administration​](Slides/Mastering%20Fabric%20Administration.pdf) slidedeck in PDF
 
 ## Extra material
+
+- Power BI Report: [Fabric Monitoring (Admin Settings)](/Extra/Fabric%20Monitoring%20(Admin%20Settings).pbix)
+- Reference PDF: [Mastering Fabric Administration Cheat Sheet](/Extra/Mastering%20Fabric%20Administration%20Cheat%20Sheet.pdf)
+- Reference PDF: [Mastering Fabric Administration Reference Links](/Extra/Mastering%20Fabric%20Administration%20Reference%20Links.pdf)
