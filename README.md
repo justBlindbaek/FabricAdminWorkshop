@@ -17,9 +17,9 @@ Whether you are a current Fabric administrator, aspire to become one, or simply 
 
 ## Speakers: The three Vikings from the North
 
-- Ásgeir Gunnarsson​, MVP, Partner @ Data Lab
-- Lars Andersen​, Program Manager @ Fabric CAT
-- Just Blindbæk​, MVP, Principal Architect @ twoday
+- [Ásgeir Gunnarsson](https://www.linkedin.com/in/asgeirgun/)​, MVP, Partner @ Data Lab
+- [Lars Andersen](https://www.linkedin.com/in/mslars/)​, Program Manager @ Fabric CAT
+- [Just Blindbæk](https://www.linkedin.com/in/blindbaek/)​, MVP, Principal Architect @ twoday
 
 ![Speaker](/Extra/speakers.png)
 
