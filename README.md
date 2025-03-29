@@ -1,10 +1,12 @@
 # Workshop: Mastering Fabric Administration
 
-Here you'll find files for the Mastering Fabric Administration workshop at FabCon on Saturday, Marts 30th
+Here you'll find files for the Mastering Fabric Administration workshop at FabCon on Saturday, March 29th
 
 A comprehensive workshop designed for Fabric administrators and those who want to understand the administrative capabilities within Microsoft Fabric. Whether you are stepping into the role of a Fabric administrator, aspire to do so, or simply want to collaborate more effectively with administrators, this session offers a deep dive into the tools, settings, and best practices that empower you to manage and secure your Fabric environment confidently.
 
 Whether you are a current Fabric administrator, aspire to become one, or simply want to better understand the possibilities and complexities of administering a Fabric tenant, this workshop will equip you with the tools and knowledge to excel in the role.
+
+We recommend to use the [dGitHub ownload feature](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives) and save all the content locally.
 
 ## Agenda
 
